@@ -16,8 +16,6 @@ add_executable(openglRand main.cpp glad/glad.c
         Camera.h
         Model.cpp
         Model.h
-        Cubie.cpp
-        Cubie.h
 )
 target_link_libraries(openglRand glfw)
 
